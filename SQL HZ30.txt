@@ -1,0 +1,10 @@
+1. SELECT * FROM [Categories]
+2. SELECT * FROM [Customers] where Country = 'Germany'
+3. SELECT * FROM [OrderDetails] where Quantity > 10
+4. SELECT * FROM Customers A, Orders B
+5.SELECT * FROM Customers A, Orders B ORDER BY A.Country where Country = 'Germany'
+
+
+K. Czerwiñska
+N. Goncerzewicz
+A. Tomkiewicz
